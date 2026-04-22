@@ -2,6 +2,7 @@
 
 # 1. Problem Definition & Project Objective
 Many novice creators rely on personal experience and subjective judgement to select content niches, unaware of the competition intensity, audience scale and operational characteristics of different categories. This common issue leads to wrong positioning, blind content production, wasted time and energy, and low growth efficiency.
+
 This project analyses how content categories differ in subscriber counts, total views, and upload volume among the top 500 most-subscribed YouTube channels as of June 2024, and provides professional, data-driven insights to help new creators choose the right category, adopt a suitable posting strategy, and avoid overly competitive fields for more sustainable channel growth.
 
 # 2. Target User
@@ -24,13 +25,13 @@ Small content creators, new YouTube channel operators, and junior MCN teams who 
 8. Insight generation: Summarise seven evidence-based findings for target users based on analysis results
 
 # 5. Key Findings
-1. Gaming has the highest average subscriber count, followed closely by Music, Kids, and Movies. These categories show the strongest audience appeal, offering high growth potential for new creators.
-2. Kids, Music, and Gaming achieve the highest total views, while News drive strong growth through the most frequent uploading.
-3. Gaming deliver the highest average views per video with low upload frequency, making them ideal for creators with limited time but strong content quality.
-4. The relationship between upload volume and views differs across categories, so creators should design custom update strategies instead of using a one-size-fits-all approach.
-5. Music shows a highly scattered subscriber distribution with strong head effects, so new creators face higher uncertainty in this category.
-6. Categories with high top-10 subscriber share are highly monopolized; new creators should avoid over-competitive categories to improve their chance of success.
-7. New creators should prioritize categories that match their ability to upload consistently, rather than only choosing popular fields.
+1. Gaming boasts the highest average subscriber count, closely followed by Music, Kids and Movies. These niches possess strong audience appeal and huge market potential, serving as priority options for new creators.
+2. Kids, Music and Gaming generate the highest total views, while the News category relies on high-frequency posting to maintain stable exposure and traffic growth.
+3. Gaming achieves outstanding average views per video with relatively low upload frequency, which is highly suitable for creators with limited time who focus on high-quality, in-depth content.
+4。 The correlation between upload volume and viewing performance varies significantly across categories. Therefore, creators should design differentiated release strategies instead of applying a unified operational model.
+5. The Music category shows scattered subscriber distribution and obvious head monopoly effects, bringing high operational uncertainty and entry barriers for novice creators.
+6. Categories with a high subscriber share held by top influencers are highly monopolised. New operators are advised to avoid such overly competitive tracks to raise their success rate.
+7. Rather than blindly chasing popular trends, new creators should prioritise content categories that match their personal productivity and sustainable posting ability.
 
 # 6. Repository Structure
 - youtube.csv: Raw dataset of top 500 Most Subscribed YouTube channels
