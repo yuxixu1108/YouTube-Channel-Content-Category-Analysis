@@ -46,7 +46,7 @@ Small content creators, new YouTube channel operators, and junior MCN teams who 
 - Additional setup: Place the CSV dataset in the same folder as the notebook
 
 # 8. Demo Video
-[Insert 1–3 minute demo video link]
+(https://video.xjtlu.edu.cn/Mediasite/MyMediasite/presentations/ab79f8dc52fb4cd7888051620033b68c1d)
 
 # 9. Limitations
 - This dataset only covers the top 500 most-subscribed YouTube channels, so the findings may not represent smaller or newer creators.
